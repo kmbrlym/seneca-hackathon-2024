@@ -1,2 +1,3 @@
-﻿# seneca-hackathon-2024
-a chatbot-powered platform connecting tenants and landlords with smart housing recommendations.
+LeaseEase
+
+a social media platform connecting landlords and tenants with a chatbot feature facilitating communication and housing recommendations. the chatbot allows tenants to inquire about specific apartment preferences, such as cleanliness or location, summarizing their needs for personalized recommendations. it offers Q&A sessions, video tutorials, and informative articles on housing, enhancing user understanding. unlike filters limited by location and price, the chatbot engages in conversational interactions, accommodating various inquiries beyond standard criteria. it can assist with furnishing preferences and lease exceptions, streamlining the agreement process. the platform fosters communication between landlords and tenants, enabling mutual agreement or refusal. key features include interactive bot-driven conversations, recommendation systems, and social media integration for seamless communication.
